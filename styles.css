@@ -1,0 +1,12 @@
+* {
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+figcaption {
+    font-size: 12px;
+}
